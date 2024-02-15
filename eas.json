@@ -9,7 +9,10 @@
     },
     "production": {
       "distribution": "internal",
-      "channel": "production"
+      "channel": "production",
+      "ios": {
+        "image": "latest"
+      }
     }
   },
   "submit": {
